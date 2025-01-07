@@ -1,9 +1,13 @@
-# Heuristics for a capacitated facility location problem with a quadratic objective function
-This project contains the code used in both M. Schmidt's completed master thesis and the article **The Balanced Facility Location Problem: Complexity and Heuristics** by M. Schmidt and B. Singh which is currently under review. A preprint of the article is available on [Optimization Online](https://optimization-online.org/2024/03/the-balanced-facility-location-problem-complexity-and-heuristics/). We provide the implementations of all the algorithms and heuristics discussed in the article as well as the the instances we use to test our heuristics on.
+## The Balanced Facility Location Problem: Complexity and Heuristics
 
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  under the [MIT License](https://github.com/INFORMSJoC/2019.0000/blob/master/LICENSE).
+
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper The Balanced Facility Location Problem: Complexity and Heuristics by Malena Schmidt and Bismark Singh.
+
+Important: This code is being developed on an on-going basis at [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/Malena205/heuristics_quadratic_facility_location). Please go there if you would like to get a more recent version or would like support.
 
 ## Requirements for running the code
-Before cloning the code, make sure you have [Git Large File Storage (Git LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) installed. Please see instructions for downloading and installing Git LFS on the linked website. Note that the data files will not function properly, due to their size, if you just download the zipped file. After installing Git LFS, 
+We provide the implementations of all the algorithms and heuristics discussed in the article as well as the the instances we use to test our heuristics on. Before cloning the code, make sure you have [Git Large File Storage (Git LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) installed. Please see instructions for downloading and installing Git LFS on the linked website. Note that the data files will not function properly, due to their size, if you just download the zipped file. After installing Git LFS, 
 (i) clone the repository as usual (with `git clone https://github.com/Malena205/heuristics_quadratic_facility_location.git`) to get the actual data files. Then, (ii) navigate into the folder as usual (with `cd`) and (iii) pull the large data files with Git LFS (`git lfs pull` and then `git lfs install`). Finally, (iv) copy the `Data` folder into the `heuristics_and_mips` folder. 
  
 Further, before running the code, make sure you have the below installed and linked with their respective paths (see instructions on installation on their respective pages):
