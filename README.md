@@ -66,7 +66,7 @@ Similarly, to run the `close greedy` algorithm, or the BFLP and BUAP models, jus
 
 ## Ongoing Development
 
-This code is being developed on an on-going basis at [[https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/Malena205/heuristics_quadratic_facility_location)](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management).
+This code is being developed on an on-going basis at [Schmidt_Singh](https://github.com/Malena205/heuristics_quadratic_facility_location) and [Schmitt_Singh](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management).
 
 ## Support
 
