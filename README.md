@@ -1,4 +1,4 @@
-> \ No newline at end of file
+
 ## The Balanced Facility Location Problem: Complexity and Heuristics
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  under the [MIT License](https://github.com/INFORMSJoC/2019.0000/blob/master/LICENSE).
