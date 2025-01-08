@@ -2,9 +2,9 @@
 
 ## The Balanced Facility Location Problem: Complexity and Heuristics
 
-This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  under the [MIT License](https://github.com/INFORMSJoC/2019.0000/blob/master/LICENSE).
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  under the [MIT License](https://github.com/INFORMSJoC/2024.0693/blob/master/LICENSE).
 
-The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper The Balanced Facility Location Problem: Complexity and Heuristics by Malena Schmidt and Bismark Singh.
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [The Balanced Facility Location Problem: Complexity and Heuristics](https://doi.org/10.1287/ijoc.2024.0693) by Malena Schmidt and Bismark Singh.
 
 **Important: This code is being developed on an on-going basis at our two GitHub pages: [Schmidt_Singh](https://github.com/Malena205/heuristics_quadratic_facility_location) and [Schmitt_Singh](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management). Please go there if you would like to get the earlier versions, a more recent version, or would like support.**
 
