@@ -6,7 +6,7 @@ This archive is distributed in association with the [INFORMS Journal on Computin
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper The Balanced Facility Location Problem: Complexity and Heuristics by Malena Schmidt and Bismark Singh.
 
-**Important: This code is being developed on an on-going basis at our GitHub pages: [https://github.com/Malena205/heuristics_quadratic_facility_location](https://github.com/Malena205/heuristics_quadratic_facility_location)] and [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management). Please go there if you would like to get a more recent version or would like support.**
+**Important: This code is being developed on an on-going basis at our two GitHub pages: [Schmidt_Singh](https://github.com/Malena205/heuristics_quadratic_facility_location) and [Schmitt_Singh](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management). Please go there if you would like to get the earlier versions, a more recent version, or would like support.**
 
 ## Cite
 
