@@ -1,3 +1,5 @@
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
 
 ## The Balanced Facility Location Problem: Complexity and Heuristics
 
@@ -5,7 +7,29 @@ This archive is distributed in association with the [INFORMS Journal on Computin
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper The Balanced Facility Location Problem: Complexity and Heuristics by Malena Schmidt and Bismark Singh.
 
-**Important: This code is being developed on an on-going basis at [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/Malena205/heuristics_quadratic_facility_location). Please go there if you would like to get a more recent version or would like support.
+**Important: This code is being developed on an on-going basis at [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/Malena205/heuristics_quadratic_facility_location). Please go there if you would like to get a more recent version or would like support. See also [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management).
+
+## Cite
+
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2024.0693
+
+https://doi.org/10.1287/ijoc.2024.0693.cd
+
+Below is the BibTex for citing this snapshot of the repository.
+
+```
+@misc{CacheTest,
+  author =        {Schmidt, Malena and Singh, Bismark},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {The balanced facility location problem: Complexity and heuristics},
+  year =          {2025},
+  doi =           {10.1287/ijoc.2024.0693.cd},
+  url =           {https://github.com/INFORMSJoC/2024.0693},
+  note =          {Available for download at https://github.com/INFORMSJoC/2024.0693},
+}  
+```
 
 ## Requirements for running the code
 We provide the implementations of all the algorithms and heuristics discussed in the article as well as the the instances we use to test our heuristics on. Before cloning the code, make sure you have [Git Large File Storage (Git LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) installed. Please see instructions for downloading and installing Git LFS on the linked website. Note that the data files will not function properly, due to their size, if you just download the zipped file. After installing Git LFS, 
@@ -40,3 +64,11 @@ users_and_facs_df, travel_dict, users, facs = load_an_instance(1, False)
 We provide a short concrete example of how to run this code in the ```main.py``` file. To run the file, make sure you have navigated to the appropriate repository folder in your terminal. Then, run the file from the terminal using ```python3 ./heuristics_and_mips/main.py``` or directly from a python interface (such as, Spyder). In this example, by default, we run the `open greedy` algorithm on Instance 1. The algorithm tests out how different values for the parameters $n_c$ and $d$ perform across different budgets. The results for the BFLP MIP for this instance are saved in the file ```instance_1_BFLP_MIP.json``` in the `own_results` folder. 
 
 Similarly, to run the `close greedy` algorithm, or the BFLP and BUAP models, just copy-paste the corresponding get_ command as we explained above into the main file and run it. 
+
+## Ongoing Development
+
+This code is being developed on an on-going basis at [[https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/Malena205/heuristics_quadratic_facility_location)](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management).
+
+## Support
+
+For support in using this software, contact the authors.
