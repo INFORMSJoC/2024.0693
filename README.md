@@ -1,13 +1,12 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-
 ## The Balanced Facility Location Problem: Complexity and Heuristics
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)  under the [MIT License](https://github.com/INFORMSJoC/2019.0000/blob/master/LICENSE).
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper The Balanced Facility Location Problem: Complexity and Heuristics by Malena Schmidt and Bismark Singh.
 
-**Important: This code is being developed on an on-going basis at [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/Malena205/heuristics_quadratic_facility_location). Please go there if you would like to get a more recent version or would like support. See also [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management).
+**Important: This code is being developed on an on-going basis at our GitHub pages: [https://github.com/Malena205/heuristics_quadratic_facility_location](https://github.com/Malena205/heuristics_quadratic_facility_location)] and [https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management](https://github.com/schmitt-hub/preferential_access_and_fairness_in_waste_management). Please go there if you would like to get a more recent version or would like support.**
 
 ## Cite
 
@@ -20,7 +19,7 @@ https://doi.org/10.1287/ijoc.2024.0693.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{Schmidt2025,
   author =        {Schmidt, Malena and Singh, Bismark},
   publisher =     {INFORMS Journal on Computing},
   title =         {The balanced facility location problem: Complexity and heuristics},
